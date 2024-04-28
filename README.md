@@ -1,0 +1,1 @@
+Chatbots struggle with current events!  They rely on outdated info, leading to hallucinations (made-up answers). This project tackles that by connecting chatbots to up-to-date databases, giving them real-world knowledge to answer your questions accurately.
